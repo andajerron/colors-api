@@ -18,7 +18,7 @@
 .menu-custom {
   height: 300px;
   background-color: white;
-  border-bottom:7px solid black;
+  border-bottom:2px solid black;
 
 }
 .button {
@@ -45,13 +45,14 @@
   color: white;
 }
 #myBG {
-  width: 1376px;
-  height: 332px;
   background-color: coral;
   color: white;
   text-align: center;
   padding: 32px;
+  border-bottom: 2px solid black;
+  height:330px;
 }
+
 </style>
 </head>
 <body>
